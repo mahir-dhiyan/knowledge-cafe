@@ -1,0 +1,43 @@
+[
+    {
+      "Id": 1,
+      "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+      "title": "The Art of Programming",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co/WWvHJYk/Leonardo-Diffusion-XL-a-cartoon-boy-standing-hapily-with-a-bac-0.jpg",
+      "posted_date": "2024-04-18",
+      "reading_time": 30,
+      "hashtags": ["#programming", "#coding", "#technology"]
+    },
+    {
+      "Id": 2,
+      "cover": "https://i.ibb.co/6N2dgnZ/2.jpg",
+      "title": "The Power of Mindfulness",
+      "author": "Emily Jones",
+      "author_img": "https://i.ibb.co/WWvHJYk/Leonardo-Diffusion-XL-a-cartoon-boy-standing-hapily-with-a-bac-0.jpg",
+      "posted_date": "2024-04-17",
+      "reading_time": 25,
+      "hashtags": ["#mindfulness", "#meditation", "#selfcare"]
+    },
+    {
+      "Id": 3,
+      "cover": "https://i.ibb.co/RzGzcPg/3.jpg",
+      "title": "Cooking Around the World",
+      "author": "David Nguyen",
+      "author_img": "https://i.ibb.co/WWvHJYk/Leonardo-Diffusion-XL-a-cartoon-boy-standing-hapily-with-a-bac-0.jpg",
+      "posted_date": "2024-04-16",
+      "reading_time": 40,
+      "hashtags": ["#cooking", "#recipes", "#foodie"]
+    },
+    {
+      "Id": 4,
+      "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+      "title": "Exploring the Cosmos",
+      "author": "Alicia Patel",
+      "author_img": "https://i.ibb.co/WWvHJYk/Leonardo-Diffusion-XL-a-cartoon-boy-standing-hapily-with-a-bac-0.jpg",
+      "posted_date": "2024-04-15",
+      "reading_time": 50,
+      "hashtags": ["#space", "#astronomy", "#science"]
+    }
+  ]
+  
